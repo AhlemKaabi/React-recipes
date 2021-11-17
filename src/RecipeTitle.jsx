@@ -6,4 +6,5 @@ function RecipeTitle() {
         <h2>{ title }</h2>
     )
 };
+
 export default RecipeTitle;
